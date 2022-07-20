@@ -22,6 +22,6 @@ A grosso modo, em uma Pilha o primeiro elemento que entra é o último que sai, 
 
 - Fila
 
-Já em uma Fila o primeiro elemento que entra é o primeiro que saí, ou seja, os elementos entrar pelo final de saem pelo início, navamente podemos entender este conceiro facilemente se fazermos alusão uma fila de banco, as pessoas entram no final da fila e saem pelo começo dela depois de serem atendidas.
+Já em uma Fila o primeiro elemento que entra é o primeiro que sai, ou seja, os elementos entram pelo final de saem pelo início, navamente podemos entender este conceiro facilmente se fizermos alusão uma fila de banco, as pessoas entram no final da fila e saem pelo começo dela depois de serem atendidas.
 
 </p>
