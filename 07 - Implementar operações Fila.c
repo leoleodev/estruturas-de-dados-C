@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 6 - Implementar operações inserir e excluir elemnto em uma pilha.
+// 6 - Implementar operações inserir e excluir elemnto em uma Filha.
 
 void operacao_Fila(int vet[],int n,int novoelemento){
 	
